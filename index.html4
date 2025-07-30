@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Казино TikTok стримеры</title>
+  <style>
+    body {
+      background: #111;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #ffd700;
+    }
+    .streamer {
+      margin-bottom: 25px;
+      padding: 15px;
+      border: 1px solid #333;
+      border-radius: 8px;
+      background: #1a1a1a;
+    }
+    .streamer h2 {
+      margin: 0 0 10px;
+      font-size: 1.2rem;
+      color: #ffd700;
+    }
+    .streamer a {
+      display: inline-block;
+      margin-top: 5px;
+      color: #00aced;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .streamer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Популярные TikTok стримеры казино 🎰</h1>
+
+  <div class="streamer">
+    <h2>@casino_fanatic78</h2>
+    <a href="https://www.tiktok.com/@casino_fanatic78/video/7411184232548142341" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@notcarurosu</h2>
+    <a href="https://www.tiktok.com/@notcarurosu/video/7411184232548142341" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@slotqueen</h2>
+    <a href="https://www.tiktok.com/@slotqueen/video/7409876543210987654" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@jackpot_lord</h2>
+    <a href="https://www.tiktok.com/@jackpot_lord/video/7412234567890123456" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@slotsmania</h2>
+    <a href="https://www.tiktok.com/@slotsmania/video/7413345678901234567" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@luckyspins</h2>
+    <a href="https://www.tiktok.com/@luckyspins/video/7414456789012345678" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@casino_queen</h2>
+    <a href="https://www.tiktok.com/@casino_queen/video/7415567890123456789" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+  <div class="streamer">
+    <h2>@bigwinhunter</h2>
+    <a href="https://www.tiktok.com/@bigwinhunter/video/7416678901234567890" target="_blank">▶ Смотреть видео</a>
+  </div>
+
+</body>
+</html>
